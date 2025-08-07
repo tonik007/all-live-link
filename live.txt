@@ -11,4 +11,6 @@ Typing Webage: https://tonik007.github.io/Typing-Website/
 input link: https://update-new-input-value-show.onrender.com/
 admin link: https://update-new-input-value-show.onrender.com/data.html
 
-Face detect by own trained model: https://tonik007.github.io/Face-detected-own-model-by-js/ 
+Face detect by own trained model by js: https://tonik007.github.io/Face-detected-own-model-by-js/ 
+
+gender detect by js : https://tonik007.github.io/gender-detection-by-js/
